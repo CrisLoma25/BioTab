@@ -1140,3 +1140,6 @@ def usuario_main(page: ft.Page):
             expand=True
         )
     )
+
+if __name__ == "__main__":
+    ft.app(target=mn.main,view=ft.AppView.WEB_BROWSER)
