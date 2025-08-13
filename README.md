@@ -1,1 +1,1 @@
-Biotav es una aplicación web en Python con Flet y Airtable que permite registrar y consultar usuarios, biomasas y bioenergías, facilitando la gestión de información en proyectos de energías renovables.
+Biotab es una aplicación web en Python con Flet y Airtable que permite registrar y consultar usuarios, biomasas y bioenergías, facilitando la gestión de información en proyectos de energías renovables.
